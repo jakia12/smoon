@@ -1,3 +1,4 @@
+ @import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
 @media screen and (max-width: 767px) {
 	.col-sm-4{
 		width:25% !important;
@@ -208,7 +209,7 @@ h1.hero-title {
 .hero-button a {
     display: inline-block;
     font-size: 16px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     padding: 17px 35px 17px 65px;
     font-weight: 600;
     background: #092430;
@@ -367,7 +368,7 @@ h1.hero-title {
     font-size: 16px;
     padding: 17px 34px;
     font-weight: 500;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     background: #FFBD00;
     color: #090909;
     border-radius: 5px;
@@ -664,7 +665,7 @@ h1.section-title {
     font-size: 16px;
     padding: 15px 34px;
     font-weight: 500;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     background: #FFBD00;
     color: #090909;
     border-radius: 5px;
@@ -971,7 +972,7 @@ h1.section-title {
     display: inline-block;
     font-size: 16px;
     font-weight: 500;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     transition: .5s;
     color: #1dd1a1;
 }
@@ -1131,7 +1132,7 @@ p.service-text {
     font-size: 18px;
     font-weight: 600;
     color: #fff;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     width: 42px;
     height: 42px;
     line-height: 42px;
@@ -1600,7 +1601,7 @@ div#countdown span {
     color: #fff;
     font-size: 13px;
     margin-right: 25px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     padding: 11px 0px 0;
 }
 div#tiles span:nth-child(2) {
@@ -1907,7 +1908,7 @@ div#tiles span:nth-child(4) {
     color: #fff;
     padding: 10px 34px 0 22px;
     font-size: 15px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 li.range-text {
     padding-left: 78px!important;
@@ -1966,7 +1967,7 @@ li.range-text {
 
 #TicketByDepartmentLegends li { 
   margin-bottom: 10px; 
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Michroma', sans-serif;
   font-weight: 400;
   color:#000; 
 }
@@ -1982,13 +1983,13 @@ li.range-text {
     margin-left: 30px;
     font-size: 15px;
     color: #fff;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 /*prossess ber*/
 .prossess-ber-plugin span {
     color: #FFFFFF;
     font-weight: 500;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     font-size: 16px;
 }
 .barfiller {
@@ -2203,7 +2204,7 @@ span.fill.my-class5 {
 .road-top-title p {
     font-size: 15px;
     padding: 6px 27px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     color: #fff;
     background: #6AB590;
     display: inline-block;
@@ -2449,7 +2450,7 @@ th#all_token span {
     padding: 15px 0 15px;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 .table tr td {
     padding: 22px 0 22px;
@@ -2585,7 +2586,7 @@ a.paginate_button {
     border-radius: 30px;
     color: #fff;
     font-weight: 600;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     margin-top: 40px;
     position: relative;
     z-index: 1;
@@ -2939,7 +2940,7 @@ ul.tabs li {
     display: block;
     list-style: none;
     color: #00B78D;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     font-weight: 500;
     padding: 15px 30px 18px;
     border-bottom: 1px solid rgba(255,255,255,0.20);
@@ -3607,7 +3608,7 @@ div#status {
     background: #243344;
     color: #fff;
     text-align: center;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     position: relative;
     z-index: 1;
 }
@@ -3705,7 +3706,7 @@ div#status {
     display: inline-block;
     text-decoration: none;
     font-size: 15px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     color: #fff;
     position: relative;
     z-index: 1;
@@ -4261,11 +4262,11 @@ animation-duration: 2.5s;
 }
 .breatcome-text a {
     color: #fff;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 .breatcome-text a span {
     font-size: 16px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     color: #1DD1A1;
     position: relative;
     z-index: 1;
@@ -4442,7 +4443,7 @@ animation-duration: 2.5s;
     color: #fff;
     border: 1px solid #00625C;
     font-weight: 600;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     border-radius: 30px;
     position: relative;
     z-index: 1;
@@ -4564,12 +4565,12 @@ span.tk {
     font-size: 46px;
     font-weight: 700;
     color: #fff;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 span.curencyp {
     font-size: 22px;
     font-weight: 600;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     color: #fff;
     transition: .5s;
     position: relative;
@@ -4579,7 +4580,7 @@ span.curencyp {
 span.monthp {
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     color: #1DD1A1;
     transition: .5s;
     position: relative;
@@ -4604,7 +4605,7 @@ span.monthp {
     display: block;
     padding: 16px 0 0;
     color: #919da4;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 .pricing-featur ul li span i {
     display: inline-block;
@@ -4638,7 +4639,7 @@ li.price-icon-text {
 .pricing-button a {
     display: inline-block;
     font-size: 16px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     color: #fff;
     background: transparent;
     padding: 14px 40px;
@@ -4725,7 +4726,7 @@ li.price-icon-text {
     display: inline-block;
     color: #919da4;
     font-size: 15px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 /*blog title*/
 .blog_page_title h4 a {
@@ -4742,7 +4743,7 @@ li.price-icon-text {
 .blog-button a {
     display: inline-block;
     font-size: 16px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     padding: 14px 40px;
     font-weight: 600;
     background: #102938;
@@ -4940,13 +4941,13 @@ li.dreamit-bottom {
     padding: 0 0 0 20px;
     color: #fff;
     font-weight: 500;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 .popular-post-content span {
     font-size: 14px;
     color: #1dd1a1;
     padding: 0 0 0 20px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 /*pooular tage*/
 .upper1 .widget-sidebar-title h2 {
@@ -4962,7 +4963,7 @@ li.dreamit-bottom {
     color: #fff;
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     margin: 0 4px 10px 0;
     padding: 10px 30px;
     text-transform: capitalize;
@@ -5014,7 +5015,7 @@ li.dreamit-bottom {
 span.left-date {
     color: #1dd1a1;
     font-size: 14px;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 .posts-reply p {
     color: #919da4;
@@ -5032,7 +5033,7 @@ span.left-date {
 }
 span.rights-reply {
     float: right;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     color: #1dd1a1;
     padding: 3px 16px;
     font-size: 16px;
@@ -5043,7 +5044,7 @@ span.rights-reply {
 }
 span.right-reply {
     float: right;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     color: #1dd1a1;
     padding: 3px 16px;
     font-size: 16px;
@@ -5104,7 +5105,7 @@ span.right-reply {
     background: #102938;
     color: #fff;
     text-align: center;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     position: relative;
     z-index: 1;
 }
@@ -5166,7 +5167,7 @@ span.right-reply {
     color: #919da4;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     margin: 0;
     padding: 15px 0 0;
 }
@@ -5180,7 +5181,7 @@ span.right-reply {
     font-size: 16px;
     font-weight: 500;
     margin: 0;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     transform: rotate(-90deg);
     background: #1DD1A1;
     height: 40px;
@@ -5197,7 +5198,7 @@ span.right-reply {
     font-size: 80px;
     color: #1DD1A1;
     font-weight: 600;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
     text-align: right;
     margin: 0;
 }
@@ -5205,7 +5206,7 @@ span.right-reply {
     font-size: 80px;
     color: #1DD1A1;
     font-weight: 600;
-    font-family: 'Montserrat';
+    font-family: 'Michroma';
 }
 h1.bottoms {
     padding: 27px 0 15px;
